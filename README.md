@@ -1,0 +1,2 @@
+# funciones-Python-
+Basico codigo
